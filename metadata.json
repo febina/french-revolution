@@ -1,0 +1,6 @@
+{
+  "name": "The Upside Down: Revolution 1789",
+  "description": "An immersive Grade 5 historical detective and escape-room adventure game exploring the French Revolution of 1789.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
